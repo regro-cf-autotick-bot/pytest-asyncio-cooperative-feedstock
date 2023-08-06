@@ -1,11 +1,11 @@
-About pytest-asyncio-cooperative
-================================
+About pytest-asyncio-cooperative-feedstock
+==========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-asyncio-cooperative-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pytest-asyncio-cooperative/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-asyncio-cooperative-feedstock/blob/main/LICENSE.txt)
 
 Summary: Run all your asynchronous tests cooperatively.
 
